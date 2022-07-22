@@ -14,6 +14,8 @@ for k, v in total.items():
 
 ## Create a base RDD and transform it
 
+The volume of unstructured data (log lines, images, binary files) in existence is growing dramatically, and PySpark is an excellent framework for analyzing this type of data through RDDs. In this 3 part exercise, you will write code that calculates the most common words from Complete Works of William Shakespeare.
+
 ```python
 
 ```
